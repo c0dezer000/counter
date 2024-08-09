@@ -21,9 +21,10 @@ body{
 h1{
     font-size: 50px;
 }
-p{
+#counts{
     font-size: 80px;
     font-weight: bolder;
+    color: black;
 }
 button{
     padding: 15px 30px;
